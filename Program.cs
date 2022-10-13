@@ -1,4 +1,4 @@
-﻿Console.Clear()
+﻿Console.Clear();
 Console.WriteLine("This is a game of guessing numbers. there may be more then 1 correct number, so don't stop guessing!");
 Console.WriteLine("You can Be done at any time by typing exit.");
 //While Loop
